@@ -1,0 +1,5 @@
+REPOSITORY             TAG       IMAGE ID       CREATED              SIZE
+root/ubuntu-tmp-file   latest    b7d737f4b087   About a minute ago   77.8MB
+ubuntu                 22.04     01f29b872827   3 weeks ago          77.8MB
+hello-world            latest    9c7a54a9a43c   3 months ago         13.3kB
+
